@@ -83,8 +83,7 @@ public class contador extends javax.swing.JFrame {
             contador += cc + " ";
             cc++;
         }
-        lblContagem.setText(contador);
-        
+        lblContagem.setText(contador);  
     }//GEN-LAST:event_btnContarActionPerformed
 
     /**
